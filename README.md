@@ -1,5 +1,5 @@
 
-**# Deploying a Flask App to a Linux Server with Docker
+## Deploying a Flask App to a Linux Server with Docker
 
 This guide explains how to deploy a Flask application to a Linux server using Docker.
 
