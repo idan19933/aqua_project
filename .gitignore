@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm project settings
+.idea/
+
+# VSCode settings (just in case)
+.vscode/
+
+# Virtual environments
+env/
+.venv/
+ENV/
+venv/
+
+# Mac OS junk
+.DS_Store
+
+# Log files
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore test coverage outputs
+htmlcov/
+.coverage
+.cache
+.pytest_cache/
