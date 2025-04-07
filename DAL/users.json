@@ -1,0 +1,30 @@
+{
+    "315520452": {
+        "id": "315520452",
+        "phone": "0545236523",
+        "name": "aviv",
+        "address": "tel aviv",
+        "password": "$2b$12$4Pz0I9DamilcJYICF.l5IOv69bk3JF3lTA2VDMLJRDIBwHjaCoEGq"
+    },
+    "209047356": {
+        "id": "209047356",
+        "phone": "0541234567",
+        "name": "guy",
+        "address": "tel aviv",
+        "password": "$2b$12$H7eh55LB2JoMeDR9xWGILesIgICo0wZxQFbSccOozbLut/cYTk8QS"
+    },
+    "012215653": {
+        "id": "012215653",
+        "phone": "0541234567",
+        "name": "william",
+        "address": "",
+        "password": "$2b$12$dMKbD1pY9TGL8W2H5f8FUeBk8TFeHV6EUdZSA6rl1Zzbp4kOpeidy"
+    },
+    "311233332": {
+        "id": "311233332",
+        "phone": "0546532154",
+        "name": "dean",
+        "address": "tel aviv",
+        "password": "$2b$12$kzcIuS/kxMxuGHOcPKJ0FeDsYh.utrVe4LJsxEnKmRyUca886S/IG"
+    }
+}
